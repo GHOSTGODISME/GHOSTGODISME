@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @GHOSTGODISME
-- 👀 I’m interested in Programming.
-- 🌱 I’m currently learning computer science.
-- 📫 Follow my instagram @ghostgodisme
+- 👋 Hi, I’m @GHOSTGODISME 
 
 <!---
 GHOSTGODISME/GHOSTGODISME is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
